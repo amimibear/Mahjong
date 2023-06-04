@@ -1,0 +1,1 @@
+{"pon_hand":"","kon_hand":"","chow_hand":"","hand":"C2C6D7C8B3C4D1D4C2D2C2C3B2C4","history":["3,Discard,D1","0,Discard,B5"],"dealer":3,"seat":0,"special":""}

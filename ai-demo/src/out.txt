@@ -1,0 +1,7 @@
+
+{
+	"action_content" : "D7",
+	"action_type" : "Discard",
+	"code" : 200
+}
+
